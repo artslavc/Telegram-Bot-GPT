@@ -10,4 +10,4 @@ Chat-GPT bot in telegram. You can choose from a variety of styles.
 
 ## How to start?
 1. Activate the virtual environment venv
-2.  2. Run main.py
+2. Run main.py
